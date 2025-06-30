@@ -18,7 +18,7 @@
 
 <header class="header">
 
-    <a href="#" class="logo"> <i class="fa-solid fa-camera"></i> B-19-demo-pipeline</a>
+    <a href="#" class="logo"> <i class="fa-solid fa-camera"></i> chnges 3</a>
 
     <nav class="navbar">
         <a href="#home">home</a>
