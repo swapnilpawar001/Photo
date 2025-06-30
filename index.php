@@ -44,7 +44,7 @@
     </div>
 
     <div class="content">
-        <h3>Capture Moments That Are Too Imporant </h3>
+        <h3>live the  Moments That Are Too Imporant </h3>
         <p>Here at Saheli Studios we capture the moments that are too important to be forgotten in time. Lets Protect those important MOMENTS.</p>
         <a href="#contact" class="btn"> contact us <span class="fas fa-chevron-right"></span> </a>
     </div>
